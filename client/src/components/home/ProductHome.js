@@ -1,9 +1,9 @@
 import { useContext } from "react"
 import { GlobalState } from "../../GlobalState"
 import Banner from "../banner/Banner"
-import ProductItem from "../MainPage/Products/ProductItem"
+import ProductItem from "../footer/MainPage/Products/ProductItem"
 import {Button} from "@mui/material"
-import Loading from "../MainPage/support/Loading"
+import Loading from "../footer/MainPage/support/Loading"
 import Advertise from "../ads/ads"
 
 export default function ProductHome() {
