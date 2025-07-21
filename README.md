@@ -1,7 +1,7 @@
 # MERN-Ecommerce
 > Ecommerce website built with the MERN stack with React Context API for state management, pure CSS for style
 
-## Author: Le Van Quang
+## Author: Anvesh Rai
 
 ## Install dependencies for server 
 ### `npm install`
