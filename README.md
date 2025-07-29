@@ -25,7 +25,7 @@
 ### Server runs on http://localhost:5000 and client on http://localhost:3000
 
 ## Accounts
-### User: email: quang111@gmail.com, password: 123456
+### User: email: anvesh9113@gmail.com, password: 123456
 
 
 ### User interface 
